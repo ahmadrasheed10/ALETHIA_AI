@@ -1,3 +1,3 @@
 # AI chat history
 
-Add the full exported conversation from each editor or coding agent used on the task. Put web-chat share links in `links.txt`. Replace passwords and API tokens with `[REMOVED]` before publication. The chat history is pending.
+`codex-chat.txt` contains the user and assistant messages from the Codex conversation for this task through the export. Add the full transcripts or share links for any other AI tools used for the task.
