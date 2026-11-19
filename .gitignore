@@ -1,0 +1,14 @@
+.venv/
+.localdeps/
+.localdeps-extra/
+.ultralytics/
+__pycache__/
+*.pt
+*.parquet
+*.incomplete
+*.parts/
+*.log
+.env
+finevideo/
+results.jsonl
+baseline.jsonl
