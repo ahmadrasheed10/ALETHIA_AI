@@ -59,3 +59,5 @@ python -m unittest -v
 ```
 
 These checks exercise half-frame voting, rounded medians, empty seconds, variable timestamps, display rotation, and recovery from damaged video rows.
+
+See the [Windows DirectML experiment](experiments/README.md) and the [completed-video checkpoint](partial_results/README.md) for the local FineVideo test.
